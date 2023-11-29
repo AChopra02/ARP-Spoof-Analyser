@@ -1,1 +1,1 @@
-# ARP-Spoof-Analyser
+It's a python script that uses the Scapy library to perform ARP (Address Resolution Protocol) monitoring on a Wi-Fi interface. The script appears to check for ARP packets and then analyzes the ARP table for dynamically assigned MAC addresses. If a MAC address is detected multiple times, it raises an alert, suggesting a potential attack.
